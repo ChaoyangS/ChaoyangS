@@ -6,7 +6,6 @@ Software Engineer
 
 I am a master of computer and information technology student at University of Pennsylvania with prior experience in investment management industry.
 
-* 🌍  I'm based in New York City
 * ✉️  You can contact me at [shec@seas.upenn.edu](mailto:shec@seas.upenn.edu)
 * 🤝  I'm open to collaborating on Projects
 
